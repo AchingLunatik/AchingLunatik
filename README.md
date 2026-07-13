@@ -1,4 +1,4 @@
-- Hi people of the Git, I’m @AchingLunatik
+- Hi I’m @AchingLunatik
 - I’m interested in drones, web development and telecomunications
 - I’m currently learning still studying 
 
